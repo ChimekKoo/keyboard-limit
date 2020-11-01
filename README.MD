@@ -6,7 +6,6 @@ Check how fast you type on the keyboard!
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -21,8 +20,16 @@ Add more general information about project. What the purpose of the project is? 
 
 ## Setup
 
+- #### Run from source
+Clone repository and run configuration python script:
+```
+git clone https://github.com/ChimekKoo/keyboard-limit.git
+cd keyboard-limit
+python3 main.py --gui
+```
+
 - #### Windows 7/8/10
-Download and run [installer](https://chimekkoo.github.io/keyboard_limit/install/#windows).
+Download and run [installer](https://chimekkoo.github.io/keyboard_limit/install.html#windows).
 Then configure app by opening "Keyboard Limit Config" shortcut on Desktop or typing the following command:
 ```
 $ cd [installation folder]
