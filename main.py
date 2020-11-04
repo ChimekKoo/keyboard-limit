@@ -29,14 +29,12 @@ def write_log(text, log_type):
         ))
 
 
-# define click listener variables #######################################
-
-time_stamp = 0
-time_now = 0
-i = 0
-
 
 def main():
+
+    time_stamp = 0
+    time_now = 0
+    i = 0
 
     write_log("", log_type="RESTART")
 
