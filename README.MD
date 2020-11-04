@@ -1,6 +1,12 @@
 Keyboard Limit
 ==============
+
 Check how fast you type on the keyboard!
+
+*__ATTENTION!!!  
+Do not install / run the program from the `develop` branch 
+because the code may contain bugs. Only the `master` branch is stable.
+If you want to collaborate on the project, feel free to contact me.__*
 
 ## Table of contents
 * [General info](#general-info)
@@ -11,11 +17,13 @@ Check how fast you type on the keyboard!
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+
 
 ## Technologies
 * Python 3.7.2 + venv
-* Tkinter GUI
+* External python modules:
+    - Tkinter
+    - Pynput
 * InstallForge for Windows installer
 
 ## Setup
@@ -23,13 +31,13 @@ Add more general information about project. What the purpose of the project is? 
 - #### Run from source
 Clone repository and run configuration python script:
 ```
-git clone https://github.com/ChimekKoo/keyboard-limit.git
-cd keyboard-limit
-python3 main.py --gui
+$ git clone https://github.com/ChimekKoo/keyboard-limit.git
+$ cd keyboard-limit
+$ python3 main.py --gui
 ```
 
 - #### Windows 7/8/10
-Download and run [installer](https://chimekkoo.github.io/keyboard_limit/install.html#windows).
+Download and run [installer](https://chimekkoo.github.io/keyboard-limit/install.html#windows).
 Then configure app by opening "Keyboard Limit Config" shortcut on Desktop or typing the following command:
 ```
 $ cd [installation folder]
@@ -46,7 +54,7 @@ The application is not yet available on linux.
 
 ## Status
 Project is: _in progress_  
-You can track project progress on [GitHub repo](https://github.com/ChimekKoo/keyboard_limit).
+You can track project progress on [GitHub repo](https://github.com/ChimekKoo/keyboard-limit).
 
 ## Inspiration
 The originator of the project is my friend.
