@@ -77,6 +77,7 @@ def main():
             time_now = perf_counter()
             if (time_now - time_stamp) > limit:
                 showinfo("l", "l")
+                system(command)
 
     Listener(on_press=click)
 
