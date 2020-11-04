@@ -17,7 +17,7 @@ If you want to collaborate on the project, feel free to contact me.__*
 * [Contact](#contact)
 
 ## General info
-
+Check how fast you type on the keyboard! You can set limit and command by opening app's gui.
 
 ## Technologies
 * Python 3.7.2 + venv
