@@ -57,7 +57,10 @@ Project is: _in progress_
 You can track project progress on [GitHub repo](https://github.com/ChimekKoo/keyboard-limit).
 
 ## Inspiration
-The originator of the project is my friend.
+My friend is an originator of the project.
+
+## Collaboration
+[#Contact] me and create pull request.
 
 ## Contact
-Created by [@ChimekKoo](https://github.com/ChimekKoo). Feel free to contact me and comment project!
+Created by [@ChimekKoo](https://github.com/ChimekKoo). Feel free to contact me!
